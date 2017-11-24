@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import io.servicecomb.provider.rest.common.RestSchema;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringDemoCodegen", date = "2017-11-24T02:10:57.281Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringDemoCodegen", date = "2017-11-24T02:15:34.156Z")
 
 @RestSchema(schemaId = "service")
 @RequestMapping(path = "/service", produces = MediaType.APPLICATION_JSON)
